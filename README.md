@@ -5,6 +5,6 @@
 Developed application to track the price of bitcoin with various currencies
 ## Demo
 
-![Simulator Screen Shot - iPhone 12 - 2022-08-13 at 17 12 32](https://user-images.githubusercontent.com/75177898/184483033-57a5131c-4e9d-459d-aee8-879de3af8da1.png)
-
+[![Simulator Screen Shot - iPhone 12 - 2022-08-13 at 17 12 32](https://user-images.githubusercontent.com/75177898/184483033-57a5131c-4e9d-459d-aee8-879de3af8da1.png)
+](https://i.postimg.cc/mgGh66ZC/Simulator-Screen-Shot-i-Phone-12-2022-08-13-at-17-12-32.png)
 
